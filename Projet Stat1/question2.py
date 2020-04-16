@@ -8,6 +8,8 @@ Created on Wed Apr  1 00:16:51 2020
 # -*- coding: utf-8 -*-
 """
  Abdoulaye Diaw
+ Fatoumata Badji
+ Amsatou Diop
  Question 2 : Regression linéairre
 """
 

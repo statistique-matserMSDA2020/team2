@@ -2,9 +2,17 @@
 """
 Created on Tue Mar 24 14:56:34 2020
 
-@author: Fatou Badji
+
+@author: Abdul Lahi Jaaw
 """
-# -*- Fatoumata Badji, Amsatou Diop, Abdoulaye Diaw -*-
+
+"""
+Fatoumata Badji
+Abdoulaye Diaw
+Amsatou Diop
+
+ Question 3: Données réelles
+"""
 
 # -*- 1- Enregistrements des données -*-
 import pandas as pd
